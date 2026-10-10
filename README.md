@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I143
 ### Team Details
-#### **Team Name** <<DEBUG AVENGERS>> <br/>
+#### **Team Name** DEBUG AVENGERS
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |   
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
